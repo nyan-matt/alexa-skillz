@@ -1,0 +1,8 @@
+# dev index
+src/index-dev.js
+
+# zips
+src/*.zip
+
+# node modules
+src/node_modules
