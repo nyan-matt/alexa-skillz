@@ -1,4 +1,4 @@
-# Alexa Skill Kids Should know
+# Alexa Skill Sample : Kids Should know
 Forked from [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia)
 Made a skill that asks my kids various things they should know about History, Math, Sports, and other topics.
 
