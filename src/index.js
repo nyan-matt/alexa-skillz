@@ -50,13 +50,13 @@ var languageString = {
 };
 
 var Alexa = require("alexa-sdk");
-var APP_ID = "amzn1.ask.skill.7c86959d-8147-46cb-9c8b-c2a52c1da024";  // TODO replace with your app ID (OPTIONAL).
+var APP_ID = "";  // TODO replace with your app ID (OPTIONAL).
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
     // debug locally alexa-skill-test
     if ('undefined' === typeof process.env.DEBUG) {
-      alexa.appId = 'amzn1.ask.skill.7c86959d-8147-46cb-9c8b-c2a52c1da024';
+      alexa.appId = '';
     }
 
     // remove for debug

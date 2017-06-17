@@ -148,7 +148,7 @@ module.exports = {
               "Congress",
               "Electoral College",
               "The Supreme Court",
-              "Parliment"
+              "Parliament"
           ]
       },
       {
