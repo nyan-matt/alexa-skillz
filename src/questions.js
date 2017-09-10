@@ -68,7 +68,7 @@ module.exports = {
               "The ratio of a circles circumference to its diameter",
               "The speed of light in a black hole",
               "The ratio of a squares perimeter to its area",
-              "The ration of a cylinders volume to its height"
+              "The ratio of a cylinders volume to its height"
           ]
       },
       {
